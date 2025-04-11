@@ -27,12 +27,16 @@ show databases; -- 위의 코드와 동일
 # 파일 저장: ctrl + s
 # 한줄 복사: ctrl + d
 # 한줄 삭제: ctrl + l
+# 새로운 sql 탭 생성: ctrl + t
+# sql 정렬: ctrl + b
 # 실행 단축키)
 # 마우스 커서가 위치하는 쿼리문 실행: ctrl + Enter
 # 마우스 드래그 한 영역 실행: ctrl + shift + Enter
 
 -- 5. 다크모드 설정
--- : Edit > Preferences > Appearance
+-- : Edit > Preferences > 
+
+
 
 
 
